@@ -1,0 +1,12 @@
+<template>
+    <div>
+        <header>
+            头部
+        </header>
+        <slot>
+        </slot>
+        <footer>
+            脚部
+        </footer>
+    </div>
+</template>
